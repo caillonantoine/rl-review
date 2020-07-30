@@ -22,7 +22,7 @@ title: Reinforcement learning - an overview
 email: caillon@ircam.fr
 description: >- # this means to ignore newlines until "baseurl:"
   A review of the 2020 edition of the Reinforcement Learning book by Sutton and Barto.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/rl-review" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  caillonantoine
 
